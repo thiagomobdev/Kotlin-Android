@@ -1,0 +1,5 @@
+//Tipos inferidos
+
+fun main(){
+
+}
