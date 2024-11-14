@@ -1,7 +1,0 @@
-type: marketplace
-title: Kotlin Course
-language: English
-summary: Aprendendo Kotlin com o plugin da JetBrains Academy
-programming_language: Kotlin
-content:
-  - lesson1
