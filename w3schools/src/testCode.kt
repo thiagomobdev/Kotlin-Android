@@ -1,11 +1,15 @@
 fun main(){
-    fun counterNumber(text: String): Int{
-        val convertText = text.toLowerCase()
+var contadorDePares = 0
+    var numero = 1
 
-        return convertText.count{it in "123"}
+    println("Numero\tQuadrado")
+    println("----------------")
+    while(contadorDePares < 10) {
+        if(numero % 2 == 0) {
+            val quadrado = numero * numero
+            println("$numero\t$quadrado")
+            contadorDePares++
+        }
+        numero++
     }
-
-    print("Entered numbers: ")
-    var numbers = readlnOrNull()
-    println(counterNumber("$numbers"))
 }

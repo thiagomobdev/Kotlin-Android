@@ -1,14 +1,11 @@
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 fun main() {
-    val name = "Kotlin"
-    //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
-    // to see how IntelliJ IDEA suggests fixing it.
-    println("Hello, " + name + "!")
-
-    for (i in 1..5) {
-        //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
-        // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
-        println("i = $i")
+    //4. Faça um programa que exiba os números de 1 a 100, mas pule múltiplos de 5.
+    fun tableFake(product: String, values: Double) {
+        println("%-15s %10.2f".format(product, values))
     }
+    println("%-15s %10.2f".format("PRODUCT", "PRICES"))
+    println("------------------------")
+    tableFake("Rice", 7.99)
 }

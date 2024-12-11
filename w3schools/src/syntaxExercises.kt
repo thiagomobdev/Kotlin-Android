@@ -28,7 +28,7 @@ fun main(){
 //pelo usuário em letras maiúsculas.
     print("Write any text: ")
     val text = readlnOrNull()
-    println("Your text in uppercase is: ${text.toUpperCase()}")
+    println("Your text in uppercase is: ${text!!.toUpperCase()}")
 //Crie um programa que contenha uma função para calcular a área de um triângulo, dado a base e a altura.
     fun area(base: Double, height: Double): Double{
         return (base * height) / 2
