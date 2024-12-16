@@ -3,47 +3,47 @@
 
 ## Tópico 1: SYNTAX
 ### Fácil
-1. Crie um programa Kotlin que exiba "Hello, World!" na saída.
-2. Faça um programa que exiba seu nome e sua idade.
-3. Escreva um programa que declare uma função chamada `greeting()` e dentro dela exiba "Bem-vindo ao Kotlin!".
+1. [x] Crie um programa Kotlin que exiba "Hello, World!" na saída.
+2. [x] Faça um programa que exiba seu nome e sua idade.
+3. [x] Escreva um programa que declare uma função chamada `greeting()` e dentro dela exiba "Bem-vindo ao Kotlin!".
 
 ### Médio
-4. Crie um programa que receba dois números do usuário e exiba a soma deles.
-5. Declare uma função que receba dois parâmetros (nome e idade) e exiba uma mensagem personalizada com essas informações.
-6. Implemente um programa que leia a entrada do teclado e exiba o texto digitado pelo usuário em letras maiúsculas.
+1. [x] Crie um programa que receba dois números do usuário e exiba a soma deles.
+2. [x] Declare uma função que receba dois parâmetros (nome e idade) e exiba uma mensagem personalizada com essas informações.
+3. [x] Implemente um programa que leia a entrada do teclado e exiba o texto digitado pelo usuário em letras maiúsculas.
 
 ### Difícil
-7. Crie um programa que contenha uma função para calcular a área de um triângulo, dado a base e a altura.
-8. Faça um programa que valide se uma entrada é um número ou texto.
-9. Escreva uma função que conte o número de vogais em uma string passada como argumento.
+1. [x] Crie um programa que contenha uma função para calcular a área de um triângulo, dado a base e a altura.
+2. [x] Faça um programa que valide se uma entrada é um número ou texto.
+3. [x] Escreva uma função que conte o número de vogais em uma string passada como argumento.
 
 ## Tópico 2: OUTPUT
 ### Fácil
-1. Escreva um programa que exiba a frase "Kotlin é divertido!" três vezes seguidas.
-2. Crie um programa que exiba uma tabela de multiplicação de 2 a 4.
-3. Mostre os números de 1 a 10, um por linha.
+1. [x] Escreva um programa que exiba a frase "Kotlin é divertido!" três vezes seguidas.
+2. [x] Crie um programa que exiba uma tabela de multiplicação de 2 a 4.
+3. [x] Mostre os números de 1 a 10, um por linha.
 
 ### Médio
-4. Faça um programa que exiba os números de 1 a 100, mas pule múltiplos de 5.
-5. Crie uma saída formatada para exibir informações de uma tabela fictícia (ex.: produtos e preços).
-6. Exiba os primeiros 10 números pares e seus respectivos quadrados.
+1. [x] Faça um programa que exiba os números de 1 a 100, mas pule múltiplos de 5.
+2. [x] Crie uma saída formatada para exibir informações de uma tabela fictícia (ex.: produtos e preços).
+3. [x] Exiba os primeiros 10 números pares e seus respectivos quadrados.
 
 ### Difícil
-7. Implemente um programa que exiba a pirâmide numérica a seguir:
+1. [x] Implemente um programa que exiba a pirâmide numérica a seguir:
    ```
    1
    2 3
    4 5 6
    7 8 9 10
    ```
-8. Faça um programa que exiba as tabuadas de 1 a 10 de maneira estruturada.
-9. Crie um programa que exiba a sequência Fibonacci até o décimo termo.
+2. [x] Faça um programa que exiba as tabuadas de 1 a 10 de maneira estruturada.
+3. [x] Crie um programa que exiba a sequência Fibonacci até o décimo termo.
 
 ## Tópico 3: VARIÁVEIS
 ### Fácil
-1. Declare uma variável de cada tipo primitivo do Kotlin (Int, Double, Float, Char, String, Boolean).
-2. Crie um programa que converta uma variável de string para inteiro.
-3. Escreva um programa que troque os valores de duas variáveis sem usar uma variável auxiliar.
+1. [x] Declare uma variável de cada tipo primitivo do Kotlin (Int, Double, Float, Char, String, Boolean).
+2. [x] Crie um programa que converta uma variável de string para inteiro.
+3. [x] Escreva um programa que troque os valores de duas variáveis sem usar uma variável auxiliar.
 
 ### Médio
 4. Faça um programa que simule o cadastro de um usuário, armazenando nome, idade e e-mail em variáveis e exiba as informações ao final.
