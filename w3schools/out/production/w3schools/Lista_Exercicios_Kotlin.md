@@ -46,9 +46,9 @@
 3. [x] Escreva um programa que troque os valores de duas variáveis sem usar uma variável auxiliar.
 
 ### Médio
-4. Faça um programa que simule o cadastro de um usuário, armazenando nome, idade e e-mail em variáveis e exiba as informações ao final.
-5. Crie um programa que calcule a média de três notas usando variáveis.
-6. Desenvolva um programa que armazene a distância percorrida (em km) e o tempo (em horas), e calcule a velocidade média.
+1. [x] Faça um programa que simule o cadastro de um usuário, armazenando nome, idade e e-mail em variáveis e exiba as informações ao final.
+2. [x] Crie um programa que calcule a média de três notas usando variáveis.
+3. [x] Desenvolva um programa que armazene a distância percorrida (em km) e o tempo (em horas), e calcule a velocidade média.
 
 ### Difícil
 7. Implemente um programa que use variáveis para calcular o IMC (Índice de Massa Corporal).

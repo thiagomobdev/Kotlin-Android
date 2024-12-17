@@ -51,9 +51,9 @@
 3. [x] Desenvolva um programa que armazene a distância percorrida (em km) e o tempo (em horas), e calcule a velocidade média.
 
 ### Difícil
-7. Implemente um programa que use variáveis para calcular o IMC (Índice de Massa Corporal).
-8. Crie um programa que receba variáveis do tipo Double e arredonde-as para duas casas decimais.
-9. Faça um programa que simule uma conta bancária básica com saldo inicial e operações de depósito e saque.
+1. [x] Implemente um programa que use variáveis para calcular o IMC (Índice de Massa Corporal).
+2. [x] Crie um programa que receba variáveis do tipo Double e arredonde-as para duas casas decimais.
+3. [x] Faça um programa que simule uma conta bancária básica com saldo inicial e operações de depósito e saque.
 
 ## Tópico 4: TIPOS DE DADOS
 ### Fácil
