@@ -57,25 +57,25 @@
 
 ## Tópico 4: TIPOS DE DADOS
 ### Fácil
-1. Crie variáveis de cada tipo (Int, String, Double, Boolean) e exiba seus valores.
-2. Converta um número inteiro para um Double e exiba o resultado.
-3. Faça um programa que leia o peso de uma pessoa como string e o converta para Double.
+1. [x] Crie variáveis de cada tipo (Int, String, Double, Boolean) e exiba seus valores.
+2. [x] Converta um número inteiro para um Double e exiba o resultado.
+3. [x] Faça um programa que leia o peso de uma pessoa como string e o converta para Double.
 
 ### Médio
-4. Declare uma lista de números inteiros e exiba a soma de seus elementos.
-5. Crie um mapa (map) com chaves e valores representando o nome e idade de três pessoas, e exiba essas informações.
-6. Faça um programa que leia um número decimal e exiba apenas a parte inteira.
+1. [x] Declare uma lista de números inteiros e exiba a soma de seus elementos.
+2. [x] Crie um mapa (map) com chaves e valores representando o nome e idade de três pessoas, e exiba essas informações.
+3. [x] Faça um programa que leia um número decimal e exiba apenas a parte inteira.
 
 ### Difícil
-7. Crie um programa que armazene informações de um produto em um objeto (nome, preço, quantidade) e exiba os detalhes do produto.
-8. Desenvolva um programa que calcule a diferença entre duas datas usando a classe `LocalDate`.
-9. Implemente um programa que ordene uma lista de strings em ordem alfabética.
+1. [x] Crie um programa que armazene informações de um produto em um objeto (nome, preço, quantidade) e exiba os detalhes do produto.
+2. [x] Desenvolva um programa que calcule a diferença entre duas datas usando a classe `LocalDate`.
+3. [x] Implemente um programa que ordene uma lista de strings em ordem alfabética.
 
 ## Tópico 5: OPERADORES
 ### Fácil
-1. Faça um programa que calcule a área de um quadrado dado o comprimento do lado.
-2. Escreva um programa que verifique se um número é par ou ímpar.
-3. Crie um programa que calcule o desconto de 10% sobre um preço dado.
+1. [x] Faça um programa que calcule a área de um quadrado dado o comprimento do lado.
+2. [x] Escreva um programa que verifique se um número é par ou ímpar.
+3. [x] Crie um programa que calcule o desconto de 10% sobre um preço dado.
 
 ### Médio
 4. Desenvolva um programa que calcule a potência de um número.
