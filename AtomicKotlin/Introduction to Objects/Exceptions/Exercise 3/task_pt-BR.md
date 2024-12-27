@@ -1,0 +1,3 @@
+## Exceções (#3)
+
+Implemente uma função chamada `repeatChar()` que recebe os parâmetros `ch` (o caractere a ser repetido) e `n` (o número de vezes para repeti-lo) e retorna uma `String` consistindo em `ch` repetido `n` vezes. A função lança uma `IllegalArgumentException` se `n` for negativo. A mensagem da exceção deve ser `"Count 'n' must be non-negative, but was x."` onde `x` é substituído pelo valor de `n`.

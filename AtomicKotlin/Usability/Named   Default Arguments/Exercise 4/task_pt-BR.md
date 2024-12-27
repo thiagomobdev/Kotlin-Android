@@ -1,0 +1,5 @@
+## Dominando a IDE: alterar assinatura
+
+Você não pode mudar o nome de um parâmetro de função de forma segura, pois um chamador pode especificar este nome de parâmetro, então seu código não será mais compilado com o novo nome. O IntelliJ IDEA pode corrigir isso automaticamente. Use o atalho <span class="shortcut">&shortcut:ChangeSignature;</span> ou escolha <span class="control">`Refatorar | Alterar Assinatura`</span>. Você pode mudar nomes de parâmetros ou adicionar mais parâmetros a uma função, e todos os chamadores serão atualizados de forma correspondente.
+
+Coloque o cursor em `foo()` e selecione a refatoração <span class="control">`Alterar Assinatura`</span>. Pressione o ícone com o símbolo de mais (`+`) para adicionar mais um parâmetro. Especifique seu nome como `d` e seu tipo como `Double`, com um valor padrão de `1.0`. Pressione <span class="control">`Enter`</span> ou clique no botão <span class="control">`Refatorar`</span>. Note como os chamadores mudam: o valor padrão agora é usado para todos os chamadores. Adicione o mesmo parâmetro a `bar()` sem especificar o valor padrão.

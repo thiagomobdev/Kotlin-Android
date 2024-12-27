@@ -1,0 +1,3 @@
+## Classes abstratas (#1)
+
+Crie uma `classe abstrata Shape` com dois métodos `abstract`, `draw()` e `erase()`, cada um produzindo o tipo de retorno padrão (`Unit`). Herde `Circle`, `Square` e `Triangle` de `Shape`, e sobrescreva os métodos `abstract` para chamar `trace()` com `"Draw Circle"`, `"Erase Circle"`, etc. `main()` cria uma `List` chamada `shapes` contendo um de cada subtipo. Chame `draw()` para cada objeto na `List`, depois `erase()` para cada objeto na `List`, para corresponder ao resultado do exercício.

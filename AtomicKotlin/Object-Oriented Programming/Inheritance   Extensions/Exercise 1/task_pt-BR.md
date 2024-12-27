@@ -1,0 +1,3 @@
+## Herança & extensões (#1)
+
+O código inicial contém declarações de `Duck` e `interactWithDuck()` (assumimos que fazem parte de uma biblioteca de terceiros). Implemente a função `mimicDuck()` que adapta dinamicamente um objeto, aceitando um `Crocodile` e retornando um `CrocoDuck`. `CrocoDuck` deve implementar `Duck` e delegar ambas as funções membro de `Duck` para `crocodile.bite()`. É possível usar herança ou você é obrigado a usar composição?

@@ -51,25 +51,25 @@
 3. [x] Desenvolva um programa que armazene a distância percorrida (em km) e o tempo (em horas), e calcule a velocidade média.
 
 ### Difícil
-7. Implemente um programa que use variáveis para calcular o IMC (Índice de Massa Corporal).
-8. Crie um programa que receba variáveis do tipo Double e arredonde-as para duas casas decimais.
-9. Faça um programa que simule uma conta bancária básica com saldo inicial e operações de depósito e saque.
+1. [x] Implemente um programa que use variáveis para calcular o IMC (Índice de Massa Corporal).
+2. [x] Crie um programa que receba variáveis do tipo Double e arredonde-as para duas casas decimais.
+3. [x] Faça um programa que simule uma conta bancária básica com saldo inicial e operações de depósito e saque.
 
 ## Tópico 4: TIPOS DE DADOS
 ### Fácil
-1. Crie variáveis de cada tipo (Int, String, Double, Boolean) e exiba seus valores.
-2. Converta um número inteiro para um Double e exiba o resultado.
-3. Faça um programa que leia o peso de uma pessoa como string e o converta para Double.
+1. [x] Crie variáveis de cada tipo (Int, String, Double, Boolean) e exiba seus valores.
+2. [x] Converta um número inteiro para um Double e exiba o resultado.
+3. [x] Faça um programa que leia o peso de uma pessoa como string e o converta para Double.
 
 ### Médio
-4. Declare uma lista de números inteiros e exiba a soma de seus elementos.
-5. Crie um mapa (map) com chaves e valores representando o nome e idade de três pessoas, e exiba essas informações.
-6. Faça um programa que leia um número decimal e exiba apenas a parte inteira.
+1. [x] Declare uma lista de números inteiros e exiba a soma de seus elementos.
+2. [x] Crie um mapa (map) com chaves e valores representando o nome e idade de três pessoas, e exiba essas informações.
+3. [x] Faça um programa que leia um número decimal e exiba apenas a parte inteira.
 
 ### Difícil
-7. Crie um programa que armazene informações de um produto em um objeto (nome, preço, quantidade) e exiba os detalhes do produto.
-8. Desenvolva um programa que calcule a diferença entre duas datas usando a classe `LocalDate`.
-9. Implemente um programa que ordene uma lista de strings em ordem alfabética.
+1. [x] Crie um programa que armazene informações de um produto em um objeto (nome, preço, quantidade) e exiba os detalhes do produto.
+2. [x] Desenvolva um programa que calcule a diferença entre duas datas usando a classe `LocalDate`.
+3. [x] Implemente um programa que ordene uma lista de strings em ordem alfabética.
 
 ## Tópico 5: OPERADORES
 ### Fácil
