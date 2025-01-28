@@ -1,7 +1,7 @@
 fun main(){
-        var num = 1
+    var num = 1
     var soma = 0
-    while(num <= 500654){
+    while(num <= 5){
         println(num)
         soma = soma + num
         num = num + 1
